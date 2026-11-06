@@ -1,44 +1,28 @@
-# Hi, I'm itqnuiz 👋
+<h1 align="center">Hey, I'm Abdullah! 👋</h1>
 
-💻 Software Developer  
-🚀 Building projects and improving my skills every day.
-
-## 🛠️ Technologies & Skills
-
-### Programming Languages
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### Frameworks & Tools
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![WinForms](https://img.shields.io/badge/WinForms-512BD4?style=for-the-badge&logo=windows&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-## 📚 Skills
-
-- Object-Oriented Programming (OOP)
-- Database Management & SQL
-- Web Development
-- .NET & WinForms
-- HTML / CSS / JavaScript
-- Bootstrap
-- Git & GitHub
-
-## 🎮 Interests
-
-Game Development • Web Development • Programming • Minecraft • Roblox
+<p align="center">
+  Developer • Programmer • Tech Enthusiast
+  <br>
+  Exploring technology and building things along the way.
+</p>
 
 ---
 
-⭐ Thanks for visiting my profile!
+### About Me
+
+- 💻 Interested in software development.
+- 🧠 Always learning something new.
+- ⚙️ Exploring programming languages and technologies.
+- 🚀 Building projects and experimenting with ideas.
+
+### Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,cpp,c,dotnet,python,js,html,css,git,github,vscode" />
+</p>
+
+---
+
+<p align="center">
+  <i>Code. Create. Explore.</i>
+</p>
